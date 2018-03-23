@@ -1,2 +1,2 @@
-# node_bootcamp
-Node Bootcamp 
+# Node Developer Course
+Node Developer Course
